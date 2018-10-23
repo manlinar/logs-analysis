@@ -19,6 +19,7 @@ This project consists of the following files:
   database, executes the SQL queries and displays the results.
 * `README.md` - This read me file.
 * `newsdata_output.txt` - This is plain text file that is a copy of what the program printed out.
+* `Vagrantfile` - The configuration file of th Vagrant machine.
 
 
 
@@ -30,8 +31,6 @@ The project code requires the following software:
 * PostgreSQL 9.5.14
 * Vagrant
 * VirtualBox
-* [FSND Vagrant Configuration]( https://github.com/udacity/fullstack-nanodegree-vm)
-
 
 
 ## How to Run the Project

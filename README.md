@@ -78,7 +78,7 @@ The logs reporting tool is executed with the following command:
 * The answers to the three questions should now be displayed.
 
 ## Helpful Resources
-1.Github Repository:[StevenWooding](https://github.com/SteveWooding/fsnd-logs-analysis-project)
+1.Github Repository: [StevenWooding](https://github.com/SteveWooding/fsnd-logs-analysis-project)
 
 2.Useful Site: [Stack Overflow](https://stackoverflow.com/)
 
